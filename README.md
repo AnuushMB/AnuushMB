@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuush M B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic and detail-oriented Computer Science student with practical experience in software development, data analysis, and
+project management. Demonstrated ability to design, develop, and test web applications and machine learning models. Seeking a
+software developer role to apply technical expertise and contribute to innovative projects.</h3>
 
 - 📫 How to reach me **mbanuush880@gmail.com**
 
